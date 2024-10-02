@@ -18,7 +18,10 @@
 Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
 ## 🤖CV
 
-⏩[CV-Raquel_Sanchez_Guirado.pdf](https://github.com/user-attachments/files/16119017/CV-Raquel_Sanchez_Guirado.pdf) ⏪
+⏩🇬🇧 - [CV - Raquel_Sanchez_Guirado-EN.pdf](https://github.com/user-attachments/files/17220670/CV.-.Raquel_Sanchez_Guirado-EN.pdf)⏪
+
+⏩🇪🇸 - [CV - Raquel_Sanchez_Guirado-ES.pdf](https://github.com/user-attachments/files/17224732/CV.-.Raquel_Sanchez_Guirado-ES.pdf)⏪
+
 
 ## 🔮Stack
 ![image](https://github.com/lapencadev/lapencadev/assets/110655959/c1abfaa4-f558-4cb2-8126-db53294ef3a5) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/7ef15ffe-ab4a-4580-87d4-052fe9f1b924) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/85ed3daf-dbaf-43ee-801b-0b5f9b55514a) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/e6dea241-5a88-4889-bba6-9fa2097a4706) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/5beb3a42-82a2-4f2e-8992-d8ab34724c8a) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/39f14f4b-4a79-4ef1-9d10-50feaaa5f0bd) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/0573b551-0c99-4633-b03e-0a4c68043e5a) ![image](https://github.com/lapencadev/lapencadev/assets/110655959/d7292b99-b62e-45f1-9e08-1e342b205722)
