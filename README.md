@@ -18,13 +18,18 @@
 <img src="https://github.com/lapencadev/lapencadev/blob/main/scaler-create-impact.gif?raw=true" width="150" />
 </div>
 
+⚠En este Git te encontrarás proyectos que intento hacer en mi tiempo libre, que no es mucho, ya que el código de mi día a día en el trabajo no lo puedo compartir públicamente.
+
+### GitHub de prácticas
+🔸Revisa mi [GitHub de prácticas](https://github.com/3592917) del Grado Superior de Desarrollo de Aplicaciones Multiplataforma donde voy subiendo la mayoría de los trabajos.
+
 ## 📲Contacto 
-Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
+Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí.</a>
 ## 🤖CV
 
-⏩🇬🇧 - [CV - Raquel_Sanchez_Guirado-EN.pdf](https://github.com/user-attachments/files/17660727/CV.-.Raquel_Sanchez_Guirado-EN.pdf)⏪
+🇬🇧 - [CV - Raquel_Sanchez_Guirado-EN.pdf](https://github.com/user-attachments/files/17660727/CV.-.Raquel_Sanchez_Guirado-EN.pdf)
 
-⏩🇪🇸 - [CV - Raquel_Sanchez_Guirado-ES.pdf](https://github.com/user-attachments/files/17660735/CV.-.Raquel_Sanchez_Guirado-ES.pdf)⏪
+🇪🇸 - [CV - Raquel_Sanchez_Guirado-ES.pdf](https://github.com/user-attachments/files/17660735/CV.-.Raquel_Sanchez_Guirado-ES.pdf)
 
 
 ## 🔮Stack
@@ -43,25 +48,3 @@ Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapencadev&layout=donut)](https://github.com/lapencadev/github-readme-stats)
 
-
-<!--
-**lapencadev/lapencadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
--->
