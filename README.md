@@ -2,33 +2,32 @@
 <h1 align="center">Hola, soy Raquel <a href="https://twitter.com/lapencadev">(laPencaDev)</a>⚡</h1>
 </div>
 
-![image](https://github.com/lapencadev/lapencadev/assets/110655959/6e52e153-fce0-4908-9ba0-2e8725980514)
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/68a78495-4c3d-4b06-a217-c07001b4ab8d" />
 
 ## ⭐Sobre mí
 
-- 👩🏻‍💻Fullstack Dev
-- 👩‍💼Proxy Product Owner
-- 💜Mentora <a href="https://step4ward.es/team/raquel/">Step4ward</a>
+- 👩🏻‍💻Backend Dev
+- 💜<a href="https://step4ward.es/team/raquel/">Mentora Step4ward</a>
 - 💬English philologist
 - 🎙️Soprano
 
-🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Desde entonces trabajo como desarrolladora fullstack y también asisto al equipo realizando tareas de análisis funcional junto con el product owner. Me estrené como speaker en T3chfest Madrid 2024 y ayudo a otras mujeres en su transición a la tecnología.
+🔸Estudié filología inglesa y estuve trabajando casi seis años en logística, en 2022 lo dejé todo para reencontrarme con el mundillo tech (lo que siempre había querido en realidad) y me uní a un bootcamp de Java. Ahí empezó mi andadura como desarrolladora fullstack y proxy product owner, aunque actualmente he cambiado al perfil de 100% back. Además, fui speaker en T3chfest Madrid 2024 y ayudo a otras mujeres a través de mentorías con [Step4ward](https://step4ward.es/).
 
 <div align="center">
 <img src="https://github.com/lapencadev/lapencadev/blob/main/scaler-create-impact.gif?raw=true" width="150" />
 </div>
 
-⚠En este Git te encontrarás proyectos que intento hacer en mi tiempo libre, que no es mucho, ya que el código de mi día a día en el trabajo no lo puedo compartir públicamente.
+⚠️En este Git te encontrarás proyectos que intento hacer en mi tiempo libre, que no es mucho, ya que el código de mi día a día en el trabajo no lo puedo compartir públicamente.
 
 ### GitHub de prácticas
 🔸Revisa mi [GitHub de prácticas](https://github.com/3592917) del Grado Superior de Desarrollo de Aplicaciones Multiplataforma donde voy subiendo la mayoría de los trabajos.
 
 ## 📲Contacto 
 Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí.</a>
+
 ## 🤖CV
 
 🇬🇧 - [CV - Raquel_Sanchez_Guirado-EN.pdf](https://github.com/user-attachments/files/17660727/CV.-.Raquel_Sanchez_Guirado-EN.pdf)
-
 🇪🇸 - [CV - Raquel_Sanchez_Guirado-ES.pdf](https://github.com/user-attachments/files/17660735/CV.-.Raquel_Sanchez_Guirado-ES.pdf)
 
 
