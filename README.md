@@ -46,4 +46,4 @@ Todos mis enlaces <a href="https://linktr.ee/lapencadev">aquí.</a>
 
 
 ## 📎GitHub Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapencadev&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lapencadev&layout=compact)
