@@ -46,6 +46,10 @@
 
 ## ✍️Últimos artículos
 <!-- BLOG-POST-LIST:START -->
+- [Tu primera entrevista de diseño de sistemas: guía básica para no llegar en blanco](https://medium.com/@lapencadev/tu-primera-entrevista-de-dise%C3%B1o-de-sistemas-gu%C3%ADa-b%C3%A1sica-para-no-llegar-en-blanco-c147df3d6c78?source=rss-37255e8ace86------2)
+- [Cómo superar &lpar;mentalmente&rpar; el periodo de prueba](https://medium.com/@lapencadev/c%C3%B3mo-superar-mentalmente-el-periodo-de-prueba-910888a639bb?source=rss-37255e8ace86------2)
+- [Negativity Bias: Finding Balance in Error Management](https://medium.com/@lapencadev/negativity-bias-finding-balance-in-error-management-3b5331103388?source=rss-37255e8ace86------2)
+- [Sesgo de negatividad: encontrar el balance en la gestión de errores](https://medium.com/@lapencadev/sesgo-de-negatividad-encontrar-el-balance-en-la-gesti%C3%B3n-de-errores-5e4f5389eeba?source=rss-37255e8ace86------2)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
